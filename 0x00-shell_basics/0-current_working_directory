@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 chmod u+x pwd
+=======
+#!/bin/bash\npwd
+>>>>>>> 7c90a05bf6f252e0aa93a139b3c9edb077864c24
