@@ -1,0 +1,2 @@
+#!/bin/bash
+Cp *[A-Z]* /tmp/u
